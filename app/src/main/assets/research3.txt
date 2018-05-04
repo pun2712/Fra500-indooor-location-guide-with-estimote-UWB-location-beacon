@@ -1,0 +1,9 @@
+2
+UVAX Lab
+Unmanned-Vehicles and Autronomous Robots for EXploration Laboratory ห้องวิจัยโดยย่อ มุ่งเน้นงานวิจัยและพัฒนาเทคโนโลยีหุ่นยนต์และระบบอัตโนมัติสำหรับงานภาคสนาม อาทิเช่น การสำรวจ การกู้ภัย การขนส่ง การเก็บตัวอย่างทางวิทยาศาสตร์ เป็นต้น
+uvac
+dummy
+IDEA Lab
+...
+idea
+dummy
